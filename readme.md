@@ -11,12 +11,8 @@ $ npm start
 
 ## npm module version
 
-```bash
-$ npm info @ant-design/charts version
-0.9.6
-$ npm info @antv/g2plot version
-1.1.8
-```
+- @ant-design/charts 0.9.6
+- @antv/g2plo 1.1.8
 
 ## BUG
 
