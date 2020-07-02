@@ -11,4 +11,4 @@ npm start
 
 value is null
 
-[](./bug.png)
+![](./bug.png)
